@@ -6,9 +6,10 @@
 .DS_Store
 
 # Ignores
-.env
+*.env*
 *.bak
 /bin
+src/server/keys
 
 todo.md
 src/ui-dashboard-client

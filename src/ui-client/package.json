@@ -71,7 +71,7 @@
   "resolutions": {
     "react-scripts/**/eslint-config-react-app": "7.0.1"
   },
-  "proxy": "http://localhost:5001",
+  "proxy": "http://host.docker.internal:5001/",
   "browserslist": [
     ">0.2%",
     "not dead",
